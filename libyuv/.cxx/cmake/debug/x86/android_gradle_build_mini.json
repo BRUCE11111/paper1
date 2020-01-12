@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "C:\\Users\\12562\\Desktop\\data\\project code\\LibyuvDemo-master\\LibyuvDemo-master\\libyuv\\CMakeLists.txt",
+    "C:\\Users\\12562\\Desktop\\data\\project code\\LibyuvDemo-master\\LibyuvDemo-master\\libyuv\\src\\main\\cpp\\libyuv\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\12562\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\12562\\Desktop\\data\\project code\\LibyuvDemo-master\\LibyuvDemo-master\\libyuv\\.cxx\\cmake\\debug\\x86\" --target clean"
+  ],
+  "libraries": {
+    "yuv-Debug-x86": {
+      "artifactName": "yuv",
+      "buildCommand": "C:\\Users\\12562\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\12562\\Desktop\\data\\project code\\LibyuvDemo-master\\LibyuvDemo-master\\libyuv\\.cxx\\cmake\\debug\\x86\" --target yuv",
+      "abi": "x86",
+      "output": "C:\\Users\\12562\\Desktop\\data\\project code\\LibyuvDemo-master\\LibyuvDemo-master\\libyuv\\.cxx\\cmake\\debug\\x86\\build\\libyuv.a"
+    },
+    "yuv_shared-Debug-x86": {
+      "artifactName": "yuv_shared",
+      "buildCommand": "C:\\Users\\12562\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\12562\\Desktop\\data\\project code\\LibyuvDemo-master\\LibyuvDemo-master\\libyuv\\.cxx\\cmake\\debug\\x86\" --target yuv_shared",
+      "abi": "x86",
+      "output": "C:\\Users\\12562\\Desktop\\data\\project code\\LibyuvDemo-master\\LibyuvDemo-master\\libyuv\\build\\intermediates\\cmake\\debug\\obj\\x86\\libyuv.so"
+    },
+    "yuvconvert-Debug-x86": {
+      "artifactName": "yuvconvert",
+      "buildCommand": "C:\\Users\\12562\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\12562\\Desktop\\data\\project code\\LibyuvDemo-master\\LibyuvDemo-master\\libyuv\\.cxx\\cmake\\debug\\x86\" --target yuvconvert",
+      "abi": "x86",
+      "output": "C:\\Users\\12562\\Desktop\\data\\project code\\LibyuvDemo-master\\LibyuvDemo-master\\libyuv\\.cxx\\cmake\\debug\\x86\\build\\yuvconvert"
+    },
+    "yuvutil-Debug-x86": {
+      "artifactName": "yuvutil",
+      "buildCommand": "C:\\Users\\12562\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\12562\\Desktop\\data\\project code\\LibyuvDemo-master\\LibyuvDemo-master\\libyuv\\.cxx\\cmake\\debug\\x86\" --target yuvutil",
+      "abi": "x86",
+      "output": "C:\\Users\\12562\\Desktop\\data\\project code\\LibyuvDemo-master\\LibyuvDemo-master\\libyuv\\build\\intermediates\\cmake\\debug\\obj\\x86\\libyuvutil.so"
+    }
+  }
+}

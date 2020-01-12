@@ -1,0 +1,636 @@
+
+{
+	"buildFiles" : 
+	[
+		"C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/CMakeLists.txt",
+		"C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\12562\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\12562\\Desktop\\data\\project code\\LibyuvDemo-master\\LibyuvDemo-master\\libyuv\\.cxx\\cmake\\release\\x86\" --target clean"
+	],
+	"cppFileExtensions" : [ "cc", "cpp" ],
+	"libraries" : 
+	{
+		"yuv-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "yuv",
+			"buildCommand" : "C:\\Users\\12562\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\12562\\Desktop\\data\\project code\\LibyuvDemo-master\\LibyuvDemo-master\\libyuv\\.cxx\\cmake\\release\\x86\" --target yuv",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/compare.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/compare_common.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/compare_gcc.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/compare_neon.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/compare_neon64.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/compare_win.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/convert.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/convert_argb.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/convert_from.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/convert_from_argb.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/convert_jpeg.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/convert_to_argb.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/convert_to_i420.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/cpu_id.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/mjpeg_decoder.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/mjpeg_validate.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/planar_functions.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/rotate.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/rotate_any.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/rotate_argb.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/rotate_common.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/rotate_dspr2.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/rotate_gcc.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/rotate_msa.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/rotate_neon.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/rotate_neon64.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/rotate_win.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/row_any.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/row_common.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/row_dspr2.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/row_gcc.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/row_msa.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/row_neon.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/row_neon64.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/row_win.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/scale.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/scale_any.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/scale_argb.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/scale_common.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/scale_dspr2.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/scale_gcc.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/scale_msa.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/scale_neon.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/scale_neon64.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/scale_win.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/video_common.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				}
+			],
+			"output" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86/build/libyuv.a",
+			"toolchain" : "751648769"
+		},
+		"yuv_shared-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "yuv_shared",
+			"buildCommand" : "C:\\Users\\12562\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\12562\\Desktop\\data\\project code\\LibyuvDemo-master\\LibyuvDemo-master\\libyuv\\.cxx\\cmake\\release\\x86\" --target yuv_shared",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/compare.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/compare_common.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/compare_gcc.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/compare_neon.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/compare_neon64.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/compare_win.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/convert.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/convert_argb.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/convert_from.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/convert_from_argb.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/convert_jpeg.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/convert_to_argb.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/convert_to_i420.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/cpu_id.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/mjpeg_decoder.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/mjpeg_validate.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/planar_functions.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/rotate.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/rotate_any.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/rotate_argb.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/rotate_common.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/rotate_dspr2.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/rotate_gcc.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/rotate_msa.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/rotate_neon.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/rotate_neon64.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/rotate_win.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/row_any.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/row_common.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/row_dspr2.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/row_gcc.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/row_msa.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/row_neon.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/row_neon64.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/row_win.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/scale.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/scale_any.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/scale_argb.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/scale_common.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/scale_dspr2.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/scale_gcc.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/scale_msa.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/scale_neon.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/scale_neon64.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/scale_win.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuv_shared_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/source/video_common.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				}
+			],
+			"output" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/build/intermediates/cmake/release/obj/x86/libyuv.so",
+			"toolchain" : "751648769"
+		},
+		"yuvconvert-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "yuvconvert",
+			"buildCommand" : "C:\\Users\\12562\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\12562\\Desktop\\data\\project code\\LibyuvDemo-master\\LibyuvDemo-master\\libyuv\\.cxx\\cmake\\release\\x86\" --target yuvconvert",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIE    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/libyuv/util/yuvconvert.cc",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				}
+			],
+			"output" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86/build/yuvconvert",
+			"toolchain" : "751648769"
+		},
+		"yuvutil-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "yuvutil",
+			"buildCommand" : "C:\\Users\\12562\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\12562\\Desktop\\data\\project code\\LibyuvDemo-master\\LibyuvDemo-master\\libyuv\\.cxx\\cmake\\release\\x86\" --target yuvutil",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android23 --gcc-toolchain=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyuvutil_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\libyuv\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/src/main/cpp/YuvJni.cpp",
+					"workingDirectory" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/.cxx/cmake/release/x86"
+				}
+			],
+			"output" : "C:/Users/12562/Desktop/data/project code/LibyuvDemo-master/LibyuvDemo-master/libyuv/build/intermediates/cmake/release/obj/x86/libyuvutil.so",
+			"toolchain" : "751648769"
+		}
+	},
+	"toolchains" : 
+	{
+		"751648769" : 
+		{
+			"cCompilerExecutable" : "C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/12562/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}
